@@ -6,7 +6,7 @@
 
 Olá, sou o Arthur, estudante da **Escola Técnica Estadual (ETEC) Professora Ilza Nascimento Pintus** e cursando Desenvolvimento de Sistemas.
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 I fuck with
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-149ECA?style=for-the-badge&logo=python&logoColor=white" />
